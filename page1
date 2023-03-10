@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<!--External Document -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"> </script>
+
+<!--Internal Document-->
+<link rel="stylesheet" href="css/main.css">
+
+</head>
+<body>
+    <nav><h3><p style="color:white">Logo here</p></h3>
+        <div class="button-group">
+       <a div class="button normal" href="../week_4_task/index.html">Page One</div></a>
+        <a div class="button inverted" href="/Users/tamryndelange/Documents/repo_tasks/week_4_task/pages/page1">Page Two</div></a>
+        <div class="button inverted">Page Three</div>
+        <div class="button inverted">Page Four</div>
+    </nav>
+
+    <header>
+        
+        <h3><i>Welcome to page Two!</i></h3>
+        <p><h1>LOOK MOM, MORE LAYOUTS!
+BOOTSTRAP GRIDS CONTINUED
+        </h1>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem distinctio cupiditate, molestiae laborum quod eligendi temporibus autem soluta alias natus, in dolores nulla adipisci eaque quia iusto qui quas voluptatem?</p>
+           <b>Assessment Start:</b> 09:00 - 09/03/23 </br>
+            <b>Assessment End:</b> 17:00 - 10/03/23</br>
+        </br>
+            <b>Assessment Duration:</b> 32 Hours
+        </p>
+    </header>
+    <div class="col-12">This is Page 2! The Only Other Page!
+    </div>
+
+    <centre>Lets Create Some Title Cards</centre>
+    <div class="row">
+        <div class="col-4">
+            <div class="col-box"> </div>
+        </div>
+    
+            <div class="col-4">
+                <div class="col-box"> </div>
+            </div>
+            
+                <div class="col-4">
+                    <div class="col-box"> </div>
+                </div>
+                <div class="row">
+                <div class="col-4">
+                    <div class="col-box"> <b>This is a Tile Card</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ipsam dolore explicabo sapiente alias. Eum iusto ipsam illum molestias quis similique enim. Alias fugiat doloribus delectus totam! Unde, autem ex.</div>
+                </div>
+            
+                    <div class="col-4">
+                        <div class="col-box"> <b>This is a Title Card</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aliquid suscipit animi eum similique? Dicta rerum libero, dignissimos ratione quibusdam consequuntur optio amet, accusantium dolores distinctio ducimus quisquam officia corrupti.</div>
+                    </div>
+                    
+                        <div class="col-4">
+                            <div class="col-box"><b>This is a Title Card</b>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti nesciunt laborum magnam molestias et nisi maxime officia sunt vel veritatis corporis accusantium earum cupiditate quis eum quas, doloremque ipsum impedit? </div>
+                        </div>
+                        <p>
+                            <centre> <h3>Finish off with another 50/50</h3></centre>
+                        </p>
+
+                 <div class="row">
+                    <div class="col-6">
+                        <div class="col-box"></div>
+                 </div>   
+                 
+                    <div class="col-6">
+                        <div class="col-box"></div>
+                 </div>  
+                    <h2><i>The Left Column</i></h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo facere qui sint odit unde, natus obcaecati eligendi deleniti, sunt, fugiat aperiam quasi dolorum hic aspernatur. Possimus enim aut corporis deleniti.</p>
+                    <h2><i>The Right Column</i></h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi libero perferendis ad, enim, reiciendis ut corporis est ipsa voluptas sit provident sed. Vero et accusamus doloribus blanditiis eos magnam facilis.</p>
+
+                
+                <div class="button-group">
+                    <div class="button inverted">Proceed to Checkout</div>
+                    <div class="button inverted">Lets get Going!</div>
+
+
+                       <p>
+                        <div class="footer">
+                            <div class="col-12">
+                                 <div class="col-box"><i>If you can build the application above... you can build your final project!</i></div>
+                            </div>
+                        </p>
+</body>
+</html>
